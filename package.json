@@ -1,8 +1,8 @@
 {
-  "name": "electronjs",
+  "name": "ElectroRecorder",
   "productName": "electronjs",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A Screen recorder made with electron",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
